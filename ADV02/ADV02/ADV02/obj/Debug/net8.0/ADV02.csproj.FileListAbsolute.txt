@@ -1,0 +1,14 @@
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\bin\Debug\net8.0\ADV02.exe
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\bin\Debug\net8.0\ADV02.deps.json
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\bin\Debug\net8.0\ADV02.runtimeconfig.json
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\bin\Debug\net8.0\ADV02.dll
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\bin\Debug\net8.0\ADV02.pdb
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\obj\Debug\net8.0\ADV02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\obj\Debug\net8.0\ADV02.AssemblyInfoInputs.cache
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\obj\Debug\net8.0\ADV02.AssemblyInfo.cs
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\obj\Debug\net8.0\ADV02.csproj.CoreCompileInputs.cache
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\obj\Debug\net8.0\ADV02.dll
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\obj\Debug\net8.0\refint\ADV02.dll
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\obj\Debug\net8.0\ADV02.pdb
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\obj\Debug\net8.0\ADV02.genruntimeconfig.cache
+C:\Users\selsa\OneDrive\Desktop\Route\ADV02\ADV02\ADV02\obj\Debug\net8.0\ref\ADV02.dll
